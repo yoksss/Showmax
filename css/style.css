@@ -1,0 +1,22 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+nav{
+   background-color: black;
+}
+nav .ul .li a{
+    color: white;
+}
+@media(max-width: 600px){
+    .dropdown-menu{
+        margin-left: 65%;
+    }
+}
+header{
+    background: url(https://baze9.com.ng/wp-content/uploads/2022/06/maxresdefault-7.jpg);
+    height: 700px;
+    width: 100%;
+    background-size: cover;
+    position:absolute;
+}
